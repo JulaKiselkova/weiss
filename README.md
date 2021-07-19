@@ -1,5 +1,5 @@
 # weiss
-##**Main tasks**
+## **Main tasks**
 * Adaptive website coding
 * Adaptive fonts
 * Flexbox
