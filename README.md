@@ -1,7 +1,8 @@
 # weiss
-**Основные таски**
-* Адаптивная вёрстка
-* Резиновые шрифты 
-* Отработка flexbox и css позиционировние 
+##**Main tasks**
+* Adaptive website coding
+* Adaptive fonts
+* Flexbox
+* CSS positioning 
 
 [watch](https://julakiselkova.github.io/weiss/)
